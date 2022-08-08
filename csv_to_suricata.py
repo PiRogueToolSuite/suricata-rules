@@ -1,7 +1,7 @@
 import csv
 from datetime import datetime
 
-# IOC from https://github.com/Te-k/stalkerware-indicators maintained by https://echap.eu.org
+# IOC from https://github.com/AssoEchap/stalkerware-indicators maintained by https://echap.eu.org
 ioc_from_echap = 'network.csv'
 sid_start = 1000000
 sid = sid_start
